@@ -80,7 +80,7 @@ $ gulp
 
 Once the server has started, simply point your browser to: [http://localhost:1856](http://localhost:1856)
 
-If you choose not to use Grunt, you can start the server by running ```node server.js```. But using Grunt gives you some extras such as livereload, and watching for changes your files & restarting the server whenever necesary.
+If you choose not to use Grunt, you can start the server by running ```node server.js```. But using Grunt gives you some extras such as livereload, and watching for changes your files & restarting the server whenever necessary.
 
 
 
